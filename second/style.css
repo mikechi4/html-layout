@@ -7,28 +7,23 @@
 
 section {
 	float: left;
-	/*margin: 0;*/
+	margin: 0;
+	width: 33.33%;
+	height: 100vh;
 }
 .section-one{
 	background-color: #4A90E2;
-	width: 33.33%;
-	height: 100vh;
-	
 }
 
 .section-two{
 	background-color: #50E3C2;
-	width: 33.33%;
-	height: 100vh;
-	
 }
 
 .section-three {
 	background-color: #B8E986;
-	width: 33.33%;
-	height: 100vh;
 	position: relative;
 }
+
 .imgPlaceHolder{
 	background-color: #D0021B;
 	height: 20vh;
